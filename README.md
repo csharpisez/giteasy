@@ -32,7 +32,7 @@ Add New File :
 
 Check Repo Status : 
 1) Type in the directory of the repo
-2) Click Repo Status
+2) Click Check Status 
 
 Commit : 
 1) Type in the directory of the repo 
