@@ -46,6 +46,7 @@ Remove :
 **REQUIREMENTS**
 
 Python (Tested in 3.8.5),
+Git From https://git-scm.com/downloads/
 
 
 
