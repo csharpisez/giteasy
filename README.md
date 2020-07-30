@@ -43,6 +43,9 @@ Remove :
 2) Click Remove
 3) In the python shell type in the name of the file to remove
 
-These are the basic functions for now, the rest are of checking options and stuff
+**REQUIREMENTS**
+
+Python (Tested in 3.8.5),
+
 
 **MORE FEATURES COMING SOON**
