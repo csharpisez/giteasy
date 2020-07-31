@@ -1,4 +1,4 @@
-# easygit
+# giteasy
 
 **DESCRIPTION**
 
